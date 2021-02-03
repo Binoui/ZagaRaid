@@ -1,0 +1,2 @@
+staging: mvnw spring-boot:run
+production: mvnw spring-boot:run

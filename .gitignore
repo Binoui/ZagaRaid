@@ -28,3 +28,6 @@ target-ide/
 /nbdist/
 /.nb-gradle/
 build/
+
+sessions/*
+.gradle/*
